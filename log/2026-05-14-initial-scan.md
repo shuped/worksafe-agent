@@ -1,3 +1,9 @@
+---
+title: 2026-05-14 — Initial landscape scan
+parent: Log
+nav_order: 2
+---
+
 # 2026-05-14 — Initial landscape scan
 
 ## Goal

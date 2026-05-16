@@ -1,3 +1,8 @@
+---
+title: Sources
+nav_order: 99
+---
+
 # Sources
 
 Running bibliography. Add to this file in any new research session.

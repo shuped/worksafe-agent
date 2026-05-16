@@ -1,3 +1,9 @@
+---
+title: Domain primer
+parent: Research
+nav_order: 1
+---
+
 # BC WorkSafe domain primer
 
 ## The system at a glance

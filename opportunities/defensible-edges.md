@@ -1,3 +1,9 @@
+---
+title: Defensible edges
+parent: Opportunities
+nav_order: 2
+---
+
 # Defensible edges for a domain expert
 
 A non-domain-expert building from generic AI primitives can clone any of these products in 3–6 months. The moat is **what they can't see** — local procedural knowledge, trust signals, and labelled data.

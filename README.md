@@ -1,3 +1,10 @@
+---
+title: Home
+layout: home
+nav_order: 1
+permalink: /
+---
+
 # worksafe-agent
 
 Long-term research and product-development project on **AI systems for the WorkSafe BC ecosystem** — serving both injured workers managing claims and BC business owners managing claims/appeals.

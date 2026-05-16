@@ -1,3 +1,9 @@
+---
+title: Competitive landscape
+parent: Research
+nav_order: 2
+---
+
 # Competitive landscape
 
 Three concentric circles: (1) BC-specific human services already in market; (2) AI/software adjacent to workers' comp; (3) generic legal AI that could absorb this space.

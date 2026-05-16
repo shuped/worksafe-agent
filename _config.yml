@@ -1,0 +1,24 @@
+title: worksafe-agent
+description: Long-term R&D on AI products for the BC WorkSafe ecosystem
+remote_theme: just-the-docs/just-the-docs
+
+search_enabled: true
+heading_anchors: true
+color_scheme: light
+
+aux_links:
+  GitHub:
+    - "https://github.com/shuped/worksafe-agent"
+aux_links_new_tab: true
+
+markdown: kramdown
+plugins:
+  - jekyll-remote-theme
+
+exclude:
+  - docs/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - node_modules/
+  - .git/

@@ -1,3 +1,9 @@
+---
+title: 2026-05-15 — CanLII deep-dive
+parent: Log
+nav_order: 1
+---
+
 # 2026-05-15 — CanLII deep-dive
 
 ## Goal

@@ -1,3 +1,9 @@
+---
+title: CanLII deep dive
+parent: Research
+nav_order: 3
+---
+
 # CanLII as competitor: deep dive
 
 The previous landscape doc treated CanLII Search+ as the biggest free-baseline risk. Closer reading shows the picture is more nuanced — and more favorable to a BC-vertical product than first appeared.

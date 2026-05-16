@@ -1,3 +1,9 @@
+---
+title: Product ideas
+parent: Opportunities
+nav_order: 1
+---
+
 # Product hypotheses
 
 Six concrete entry points, ranked roughly by ease-of-monetization × defensibility.
